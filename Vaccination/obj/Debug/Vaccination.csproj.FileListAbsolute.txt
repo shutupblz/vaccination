@@ -1,0 +1,13 @@
+C:\Users\97150\Documents\Vaccination\Vaccination\bin\Debug\Vaccination.exe.config
+C:\Users\97150\Documents\Vaccination\Vaccination\bin\Debug\Vaccination.exe
+C:\Users\97150\Documents\Vaccination\Vaccination\bin\Debug\Vaccination.pdb
+C:\Users\97150\Documents\Vaccination\Vaccination\bin\Debug\Oracle.DataAccess.dll
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.csprojAssemblyReference.cache
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.Form1.resources
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.Properties.Resources.resources
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.csproj.GenerateResource.cache
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.csproj.CoreCompileInputs.cache
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.csproj.CopyComplete
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.exe
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.pdb
+C:\Users\97150\Documents\Vaccination\Vaccination\obj\Debug\Vaccination.Form2.resources
