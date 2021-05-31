@@ -2,3 +2,8 @@ D:\SWE semester 4\Data Structure\project\vaccination\obj\Debug\Vaccination.cspro
 D:\SWE semester 4\Data Structure\project\vaccination\obj\Debug\Vaccination.Form1.resources
 D:\SWE semester 4\Data Structure\project\vaccination\obj\Debug\Vaccination.Form2.resources
 D:\SWE semester 4\Data Structure\project\vaccination\obj\Debug\Vaccination.csproj.GenerateResource.cache
+E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\bin\Debug\Vaccination.exe.config
+E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.csprojResolveAssemblyReference.cache
+E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.Form1.resources
+E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.Form2.resources
+E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.csproj.GenerateResource.Cache
