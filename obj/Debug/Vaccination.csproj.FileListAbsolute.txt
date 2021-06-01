@@ -7,3 +7,7 @@ E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\o
 E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.Form1.resources
 E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.Form2.resources
 E:\Books and Records\Year Two\Second Semester\Software Engineering\vaccination\obj\Debug\Vaccination.csproj.GenerateResource.Cache
+C:\Users\Salma\OneDrive\Documents\GitHub\vaccination\obj\Debug\Vaccination.csprojAssemblyReference.cache
+C:\Users\Salma\OneDrive\Documents\GitHub\vaccination\obj\Debug\Vaccination.Form1.resources
+C:\Users\Salma\OneDrive\Documents\GitHub\vaccination\obj\Debug\Vaccination.Form2.resources
+C:\Users\Salma\OneDrive\Documents\GitHub\vaccination\obj\Debug\Vaccination.csproj.GenerateResource.cache
